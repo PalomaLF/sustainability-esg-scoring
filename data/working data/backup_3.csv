@@ -1236,3 +1236,638 @@ Healthcare,Ireland,NYS:MDT,Medtronic Plc
 Banks,United States of America,NYS:C,"Citigroup, Inc."
 Banks,United States of America,NYS:C,"Citigroup, Inc."
 Retailing,United States of America,NYS:TJX,"The TJX Cos., Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Machinery,United States of America,NYS:TTC,The Toro Co.
+Oil & Gas Producers,Brazil,BSP:PETR4,Petróleo Brasileiro SA
+Pharmaceuticals,United States of America,NAS:VRTX,"Vertex Pharmaceuticals, Inc."
+Pharmaceuticals,United States of America,NAS:REGN,"Regeneron Pharmaceuticals, Inc."
+Software & Services,United States of America,NAS:ABNB,"Airbnb, Inc."
+Aerospace & Defense,United States of America,NYS:LMT,Lockheed Martin Corp.
+Machinery,United States of America,NYS:DE,Deere & Co.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Software & Services,Poland,WAR:11B,11 Bit Studios SA
+Insurance,Switzerland,NYS:CB,Chubb Ltd.
+Insurance,United States of America,NYS:MMC,"Marsh & McLennan Cos., Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Software & Services,United States of America,NAS:ADP,"Automatic Data Processing, Inc."
+Healthcare,United States of America,NYS:BSX,Boston Scientific Corp.
+Software & Services,Canada,TSE:SHOP,"Shopify, Inc."
+Semiconductors,United States of America,NAS:ADI,"Analog Devices, Inc."
+Food Products,United States of America,NAS:MDLZ,"Mondelez International, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Transportation,Bermuda,OSL:2020,2020 Bulkers Ltd.
+Healthcare,United States of America,NYS:CVS,CVS Health Corp.
+Pharmaceuticals,United States of America,NAS:GILD,"Gilead Sciences, Inc."
+Banks,India,BOM:532174,ICICI Bank Ltd.
+Software & Services,United States of America,NAS:PANW,"Palo Alto Networks, Inc."
+Software & Services,United States of America,NYS:FI,"Fiserv, Inc."
+Pharmaceuticals,United Kingdom,LON:GSK,GSK Plc
+Diversified Financials,United States of America,NYS:KKR,"KKR & Co., Inc."
+Software & Services,United States of America,NAS:SNPS,"Synopsys, Inc."
+Chemicals,United States of America,NYS:SHW,The Sherwin-Williams Co.
+Real Estate,United States of America,NAS:EQIX,"Equinix, Inc."
+Healthcare,United States of America,NYS:HCA,"HCA Healthcare, Inc."
+Technology Hardware,United States of America,NYS:ANET,"Arista Networks, Inc."
+Software & Services,United States of America,NAS:CDNS,"Cadence Design Systems, Inc."
+Real Estate,Canada,TSE:CAR.UT,Canadian Apartment Properties Real Estate Investment Trust
+Commercial Services,Australia,ASX:CWY,Cleanaway Waste Management Ltd.
+Pharmaceuticals,United States of America,NYS:ZTS,"Zoetis, Inc."
+Software & Services,Poland,WAR:11B,11 Bit Studios SA
+Transportation,Canada,TSE:CNR,Canadian National Railway Co.
+Diversified Financials,France,-,Banque Stellantis France SA
+Media,United Kingdom,LON:REL,RELX Plc
+Technology Hardware,United States of America,NYS:DELL,"Dell Technologies, Inc."
+Diversified Financials,Japan,-,"Sumitomo Mitsui Finance & Leasing Co., Ltd."
+Software & Services,India,BOM:500209,Infosys Ltd.
+Diversified Financials,United States of America,NYS:ICE,"Intercontinental Exchange, Inc."
+Retailing,United States of America,NYS:TGT,Target Corp.
+Software & Services,United States of America,NAS:CRWD,"CrowdStrike Holdings, Inc."
+Machinery,United States of America,NYS:ITW,"Illinois Tool Works, Inc."
+Pharmaceuticals,Germany,ETR:DMP,Dermapharm Holding SE
+Oil & Gas Producers,Norway,OSL:EQNR,Equinor ASA
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Software & Services,Uruguay,NAS:MELI,"MercadoLibre, Inc."
+Diversified Financials,United States of America,NAS:CME,"CME Group, Inc."
+Refiners & Pipelines,Canada,TSE:ENB,"Enbridge, Inc."
+Automobiles,Italy,MIL:RACE,Ferrari NV
+Utilities,United States of America,NYS:SO,The Southern Co.
+Transportation,United States of America,NAS:CSX,CSX Corp.
+Aerospace & Defense,United States of America,NYS:GD,General Dynamics Corp.
+Food Products,United States of America,NYS:MO,"Altria Group, Inc."
+Consumer Services,United States of America,NYS:CMG,"Chipotle Mexican Grill, Inc."
+Utilities,United States of America,NYS:DUK,Duke Energy Corp.
+Household Products,India,BOM:500830,Colgate-Palmolive (India) Ltd.
+Consumer Services,United States of America,NAS:MAR,"Marriott International, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Media,Canada,TSE:TRI,Thomson Reuters Corp.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Software & Services,United States of America,NAS:WDAY,"Workday, Inc."
+Healthcare,United States of America,NYS:BDX,"Becton, Dickinson & Co."
+Healthcare,United States of America,NYS:MCK,McKesson Corp.
+Machinery,United States of America,NYS:PH,Parker-Hannifin Corp.
+Aerospace & Defense,United States of America,NYS:NOC,Northrop Grumman Corp.
+Banks,Spain,MCE:SAN,Banco Santander SA
+Oil & Gas Producers,United States of America,NYS:EOG,"EOG Resources, Inc."
+Software & Services,China,HKG:9999,"NetEase, Inc."
+Banks,Canada,TSE:BMO,Bank of Montreal
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Banks,Brazil,BSP:ITUB4,Itaú Unibanco Holding SA
+Diversified Metals,United States of America,NYS:SCCO,Southern Copper Corp.
+Food Products,United Kingdom,LON:BATS,British American Tobacco plc
+Technology Hardware,United States of America,NYS:APH,Amphenol Corp.
+Diversified Financials,Canada,TSE:BN,Brookfield Corp.
+Semiconductors,United States of America,NAS:MRVL,"Marvell Technology, Inc."
+Commercial Services,United States of America,NAS:MARA,"Marathon Digital Holdings, Inc."
+Aerospace & Defense,United States of America,NYS:TDG,"TransDigm Group, Inc."
+Building Products,Ireland,NYS:TT,Trane Technologies Plc
+Semiconductors,Netherlands,-,NXP BV
+Retailing,United States of America,NAS:ORLY,"O'Reilly Automotive, Inc."
+Banks,Philippines,PHS:BPI,Bank of the Philippine Islands
+Chemicals,United States of America,NYS:ECL,"Ecolab, Inc."
+Technology Hardware,United States of America,NAS:SMCI,"Super Micro Computer, Inc."
+Commercial Services,United States of America,NAS:CTAS,Cintas Corp.
+Software & Services,United States of America,NAS:PYPL,"PayPal Holdings, Inc."
+Banks,Colombia,BOG:BBVACOL,Banco Bilbao Vizcaya Argentaria Colombia SA
+Machinery,United States of America,NYS:EMR,Emerson Electric Co.
+Insurance,Ireland,NYS:AON,Aon Plc
+Diversified Financials,United States of America,NAS:COIN,"Coinbase Global, Inc."
+Food Products,United States of America,NAS:MNST,Monster Beverage Corp.
+Transportation,United States of America,NYS:FDX,FedEx Corp.
+Diversified Financials,United States of America,NYS:APO,"Apollo Global Management, Inc."
+Banks,Canada,TSE:BNS,The Bank of Nova Scotia
+Refiners & Pipelines,United States of America,NYS:EPD,Enterprise Products Partners LP
+Machinery,United States of America,NAS:PCAR,"PACCAR, Inc."
+Banks,United States of America,NYS:PNC,"The PNC Financial Services Group, Inc."
+Telecommunication Services,Mexico,MEX:AMXB,America Movil SAB de CV
+Transportation,United States of America,NYS:NSC,Norfolk Southern Corp.
+Software & Services,United States of America,NAS:ROP,"Roper Technologies, Inc."
+Retailing,Canada,NAS:LULU,"lululemon athletica, Inc."
+Commercial Services,United States of America,NYS:RSG,"Republic Services, Inc."
+Automobiles,Japan,TKS:7267,"Honda Motor Co., Ltd."
+Software & Services,United States of America,NYS:PLTR,"Palantir Technologies, Inc."
+Diversified Metals,Brazil,BSP:VALE3,Vale SA
+Construction Materials,Ireland,NYS:CRH,CRH Plc
+Diversified Metals,United States of America,NYS:FCX,"Freeport-McMoRan, Inc."
+Oil & Gas Producers,United States of America,NYS:PXD,Pioneer Natural Resources Co.
+Real Estate,United States of America,NYS:SPG,"Simon Property Group, Inc."
+Technology Hardware,United States of America,NYS:MSI,"Motorola Solutions, Inc."
+Healthcare,United States of America,NYS:EW,Edwards Lifesciences Corp.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Software & Services,United States of America,NAS:FTNT,"Fortinet, Inc."
+Banks,Japan,TKS:8411,"Mizuho Financial Group, Inc."
+Software & Services,United States of America,NAS:TEAM,Atlassian Corp.
+Utilities,United States of America,NAS:CEG,Constellation Energy Corp.
+Software & Services,United States of America,NAS:ADSK,"Autodesk, Inc."
+Chemicals,United States of America,NYS:APD,"Air Products & Chemicals, Inc."
+Household Products,United States of America,NYS:EL,"The Estée Lauder Companies, Inc."
+Oil & Gas Producers,United States of America,NYS:OXY,Occidental Petroleum Corp.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Retailing,United States of America,NYS:AZO,"AutoZone, Inc."
+Software & Services,United States of America,NAS:DASH,"DoorDash, Inc."
+Commercial Services,United States of America,NAS:CPRT,"Copart, Inc."
+Diversified Financials,Cayman Islands,NYS:NU,Nu Holdings Ltd.
+Real Estate,United States of America,-,Welltower OP LLC
+Building Products,United States of America,NYS:CARR,Carrier Global Corp.
+Diversified Financials,United States of America,NYS:COF,Capital One Financial Corp.
+Healthcare,United States of America,NAS:DXCM,"DexCom, Inc."
+Industrial Conglomerates,United States of America,NYS:MMM,3M Co.
+Consumer Services,United States of America,NYS:HLT,"Hilton Worldwide Holdings, Inc."
+Real Estate,United States of America,NYS:PSA,Public Storage
+Insurance,United States of America,NYS:MET,"MetLife, Inc."
+Utilities,United Kingdom,LON:NG,National Grid Plc
+Homebuilders,United States of America,NYS:DHI,"D.R. Horton, Inc."
+Insurance,United States of America,NYS:AIG,"American International Group, Inc."
+Transportation,China,HKG:1138,"COSCO SHIPPING Energy Transportation Co., Ltd."
+Insurance,United States of America,NYS:TRV,"The Travelers Cos., Inc."
+Banks,United States of America,NYS:TFC,Truist Financial Corp.
+Refiners & Pipelines,United States of America,NYS:VLO,Valero Energy Corp.
+Software & Services,United States of America,NYS:SQ,"Block, Inc."
+Retailing,United States of America,NAS:ROST,"Ross Stores, Inc."
+Real Estate,United States of America,NYS:CCI,"Crown Castle, Inc."
+Automobiles,United States of America,NYS:F,Ford Motor Co.
+Semiconductors,United States of America,NAS:MCHP,"Microchip Technology, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Real Estate,United States of America,NAS:APLD,Applied Digital Corp.
+Insurance,United States of America,NYS:AFL,"Aflac, Inc."
+Food Products,United States of America,NYS:STZ,"Constellation Brands, Inc."
+Pharmaceuticals,United States of America,NYS:IQV,"IQVIA Holdings, Inc."
+Healthcare,United States of America,NAS:IDXX,"IDEXX Laboratories, Inc."
+Banks,Canada,TSE:CM,Canadian Imperial Bank of Commerce
+Transportation,United States of America,NAS:ODFL,"Old Dominion Freight Line, Inc."
+Pharmaceuticals,Japan,TKS:4502,"Takeda Pharmaceutical Co., Ltd."
+Automobiles,United States of America,NYS:GM,General Motors Co.
+Traders & Distributors,United States of America,NYS:URI,"United Rentals, Inc."
+Refiners & Pipelines,United States of America,NYS:OKE,"ONEOK, Inc."
+Diversified Financials,United States of America,NAS:IBKR,"Interactive Brokers Group, Inc."
+Auto Components,Indonesia,JKT:SMSM,PT Selamat Sempurna Tbk
+Steel,United States of America,NYS:NUE,Nucor Corp.
+Oil & Gas Producers,Canada,TSE:SU,"Suncor Energy, Inc."
+Oil & Gas Producers,United States of America,NYS:HES,Hess Corp.
+Utilities,United States of America,NAS:AEP,"American Electric Power Co., Inc."
+Refiners & Pipelines,United States of America,NYS:WMB,"The Williams Cos., Inc."
+Diversified Financials,United States of America,NYS:MSCI,"MSCI, Inc."
+Software & Services,United States of America,NAS:PAYX,"Paychex, Inc."
+Technology Hardware,Switzerland,NYS:TEL,TE Connectivity Ltd.
+Pharmaceuticals,United States of America,NYS:A,"Agilent Technologies, Inc."
+Traders & Distributors,United States of America,NAS:FAST,Fastenal Co.
+Utilities,United States of America,NYS:PCG,PG&E Corp.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Insurance,Canada,TSE:MFC,Manulife Financial Corp.
+Commercial Services,Canada,TSE:WCN,"Waste Connections, Inc."
+Healthcare,United States of America,NAS:GEHC,"GE Healthcare Technologies, Inc."
+Banks,Brazil,BSP:SANB11,Banco Santander (Brasil) SA
+Transportation,Bermuda,OSL:2020,2020 Bulkers Ltd.
+Food Products,United States of America,NAS:KHC,The Kraft Heinz Co.
+Building Products,Ireland,NYS:JCI,Johnson Controls International Plc
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Refiners & Pipelines,Canada,TSE:TRP,TC Energy Corp.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Diversified Financials,United States of America,NYS:ARES,Ares Management Corp.
+Diversified Financials,United States of America,NYS:BK,The Bank of New York Mellon Corp.
+Diversified Financials,United States of America,NYS:AMP,"Ameriprise Financial, Inc."
+Insurance,United States of America,NYS:ALL,The Allstate Corp.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Healthcare,United States of America,NYS:HUM,"Humana, Inc."
+Refiners & Pipelines,United States of America,NYS:MPLX,MPLX LP
+Aerospace & Defense,United States of America,NYS:LHX,"L3Harris Technologies, Inc."
+Food Products,United States of America,NAS:KDP,"Keurig Dr Pepper, Inc."
+Food Products,Brazil,BSP:ABEV3,Ambev SA
+Traders & Distributors,United Kingdom,NYS:FERG,Ferguson Plc
+Food Retailers,United States of America,NYS:KR,The Kroger Co.
+Software & Services,United States of America,NAS:DDOG,"Datadog, Inc."
+Utilities,United States of America,-,"Dominion Energy South Carolina, Inc."
+Software & Services,United States of America,NYS:FIS,"Fidelity National Information Services, Inc."
+Food Retailers,United States of America,NYS:SYY,Sysco Corp.
+Chemicals,United States of America,NYS:DOW,"Dow, Inc."
+Insurance,United States of America,NYS:PRU,"Prudential Financial, Inc."
+Software & Services,United States of America,NAS:TTD,"The Trade Desk, Inc."
+Pharmaceuticals,United Kingdom,LON:HLN,Haleon Plc
+Food Products,United States of America,NYS:HSY,The Hershey Co.
+Machinery,United States of America,NYS:OTIS,Otis Worldwide Corp.
+Refiners & Pipelines,United States of America,NYS:KMI,"Kinder Morgan, Inc."
+Banks,United Kingdom,LON:LLOY,Lloyds Banking Group Plc
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Consumer Services,United States of America,NYS:YUM,"Yum! Brands, Inc."
+Precious Metals,United States of America,NYS:NEM,Newmont Corp.
+Retailing,China,HKG:9618,"JD.com, Inc."
+Consumer Services,United States of America,NYS:LVS,Las Vegas Sands Corp.
+Healthcare,United States of America,NYS:COR,"Cencora, Inc."
+Consumer Services,Ireland,LON:FLTR,Flutter Entertainment Plc
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Retailing,United States of America,NYS:KVUE,"Kenvue, Inc."
+Software & Services,United States of America,NAS:CTSH,Cognizant Technology Solutions Corp.
+Machinery,United States of America,NYS:CMI,"Cummins, Inc."
+Oil & Gas Producers,Australia,ASX:WDS,Woodside Energy Group Ltd.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Utilities,United States of America,NAS:EXC,Exelon Corp.
+Construction Materials,United States of America,NYS:MLM,"Martin Marietta Materials, Inc."
+Healthcare,United States of America,NYS:VEEV,"Veeva Systems, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Refiners & Pipelines,United States of America,NYS:CQP,Cheniere Energy Partners LP
+Commercial Services,United States of America,NYS:IT,"Gartner, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Consumer Services,Canada,TSE:QSR,"Restaurant Brands International, Inc."
+Semiconductors,United States of America,NAS:MPWR,"Monolithic Power Systems, Inc."
+Construction & Engineering,United States of America,NYS:PWR,"Quanta Services, Inc."
+Construction Materials,United States of America,NYS:VMC,Vulcan Materials Co.
+Software & Services,United States of America,NAS:CSGP,"CoStar Group, Inc."
+Retailing,United States of America,NYS:DG,Dollar General Corp.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Oil & Gas Producers,Canada,TSE:IMO,Imperial Oil Ltd.
+Software & Services,China,HKG:9888,"Baidu, Inc."
+Software & Services,Poland,WAR:11B,11 Bit Studios SA
+Commercial Services,United States of America,NAS:VRSK,"Verisk Analytics, Inc."
+Electrical Equipment,United States of America,NYS:ROK,"Rockwell Automation, Inc."
+Semiconductors,United States of America,NAS:ON,ON Semiconductor Corp.
+Commercial Services,United States of America,NYS:EFX,"Equifax, Inc."
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Telecommunication Services,Canada,TSE:BCE,"BCE, Inc."
+Technology Hardware,United States of America,NAS:CDW,CDW Corp.
+Chemicals,United States of America,NYS:PPG,"PPG Industries, Inc."
+Oil & Gas Producers,Canada,TSE:CVE,"Cenovus Energy, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Real Estate,United States of America,NYS:EXR,"Extra Space Storage, Inc."
+Retailing,United States of America,NYS:CPNG,"Coupang, Inc."
+Software & Services,Singapore,NYS:SE,Sea Ltd. (Singapore)
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Consumer Services,United States of America,NYS:RCL,Royal Caribbean Group
+Oil & Gas Producers,United States of America,NAS:FANG,"Diamondback Energy, Inc."
+Software & Services,India,BOM:507685,Wipro Ltd.
+Pharmaceuticals,United States of America,NAS:BIIB,"Biogen, Inc."
+Food Products,United Kingdom,NAS:CCEP,Coca-Cola Europacific Partners plc
+Software & Services,United States of America,NYS:FICO,Fair Isaac Corp.
+Transportation,Ireland,DUB:RYA,Ryanair Holdings Plc
+Insurance,Canada,TSE:SLF,"Sun Life Financial, Inc."
+Energy Services,United States of America,NYS:HAL,Halliburton Co.
+Retailing,United States of America,NAS:DLTR,"Dollar Tree, Inc."
+Chemicals,United Kingdom,NYS:LYB,LyondellBasell Industries NV
+Utilities,United States of America,NYS:PEG,"Public Service Enterprise Group, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Energy Services,United States of America,NAS:BKR,Baker Hughes Co.
+Machinery,United States of America,NYS:XYL,"Xylem, Inc."
+Retailing,China,SHE:002818,"Chengdu Fusen Noble-House Industrial Co., Ltd."
+Banks,United Kingdom,LON:BARC,Barclays PLC
+Semiconductors,China,SHE:300613,"Shanghai Fullhan Microelectronics Co., Ltd."
+Insurance,Japan,TKS:8630,"Sompo Holdings, Inc."
+Real Estate,Canada,-,"Original Wempi, Inc."
+Software & Services,United States of America,NAS:CDLX,"Cardlytics, Inc."
+Commercial Services,United States of America,NYS:NL,"NL Industries, Inc."
+Banks,Australia,-,Suncorp-Metway Ltd.
+Real Estate,China,HKG:1528,"Red Star Macalline Group Co., Ltd."
+Media,United Kingdom,LON:WPP,WPP Plc
+Utilities,United Kingdom,-,Southern Electric Power Distribution Plc
+Industrial Conglomerates,China,HKG:656,Fosun International Ltd.
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Banks,United States of America,NAS:FLIC,The First of Long Island Corp.
+Banks,Japan,TKS:7350,"Okinawa Financial Group, Inc."
+Pharmaceuticals,China,SHE:000623,"Jilin Aodong Pharmaceutical Group Co., Ltd."
+Retailing,China,SHE:002419,"Rainbow Digital Commercial Co., Ltd."
+Pharmaceuticals,Taiwan,TAI:6550,Polaris Group
+Construction Materials,China,HKG:2233,West China Cement Ltd.
+Banks,Switzerland,SWX:VATN,Valiant Holding AG
+Real Estate,China,SHE:000718,"Suning Universal Co., Ltd."
+Software & Services,United States of America,NAS:NCNO,"nCino, Inc."
+Food Products,Indonesia,JKT:HMSP,PT Hanjaya Mandala Sampoerna Tbk
+Utilities,Italy,MIL:IRE,Iren SpA
+Software & Services,India,BOM:511431,Vakrangee Ltd.
+Consumer Services,United States of America,NYS:MCW,"Mister Car Wash, Inc."
+Technology Hardware,Taiwan,TAI:3481,Innolux Corp.
+Software & Services,United States of America,-,"Thorne HealthTech, Inc."
+Food Products,Germany,ETR:SZU,Südzucker AG
+Banks,United States of America,NAS:PKBK,"Parke Bancorp, Inc."
+Transportation,United Arab Emirates,ADS:ADAVIATION,Abu Dhabi Aviation Co.
+Auto Components,Japan,TKS:4246,DaikyoNishikawa Corp.
+Consumer Services,Australia,ASX:CKF,Collins Foods Ltd.
+Software & Services,South Korea,KRX:035720,Kakao Corp.
+Banks,China,HKG:1988,"China Minsheng Banking Corp., Ltd."
+Pharmaceuticals,India,BOM:532300,Wockhardt Ltd.
+Real Estate,Turkey,IST:EKGYO.E,Emlak Konut Gayrimenkul Yatirim Ortakligi AS
+Media,China,SHE:300413,"Mango Excellent Media Co., Ltd."
+Software & Services,United States of America,NAS:ACIW,"ACI Worldwide, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Diversified Metals,United States of America,-,PolyMet Mining Corp.
+Banks,Japan,TKS:7337,"Hirogin Holdings, Inc."
+Transportation,China,HKG:2057,"ZTO Express (Cayman), Inc."
+Semiconductors,China,SHE:300236,"Shanghai Sinyang Semiconductor Materials Co., Ltd."
+Pharmaceuticals,South Korea,KRX:140410,"Mezzion Pharma Co., Ltd."
+Banks,United States of America,NAS:BOKF,BOK Financial Corp.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Banks,Estonia,-,Luminor Bank AS (Estonia)
+Banks,Slovenia,LJU:NLBR,Nova Ljubljanska Banka d.d.
+Utilities,Hungary,BUD:ALTEO,ALTEO Energy Services Plc
+Banks,Iceland,-,Landsbankinn hf
+Banks,Iceland,ICE:ISB,Íslandsbanki hf
+Food Retailers,Iceland,ICE:HAGA,Hagar hf
+Banks,Iceland,ICE:ARION,Arion Banki HF
+Transportation,Iceland,ICE:EIM,Eimskipafelag Islands hf
+Banks,Russian Federation,MIC:SBER,Sberbank Russia PJSC
+Banks,Czech Republic,-,Raiffeisenbank as
+Utilities,Lithuania,LIT:IGN1L,Ignitis grupe AB
+Banks,Malta,MAL:BOV,Bank of Valletta Plc
+Banks,Poland,WAR:BOS,Bank Ochrony Srodowiska SA
+Diversified Financials,Georgia,-,Georgia Capital JSC
+Utilities,Bulgaria,-,Bulgarian Energy Holding EAD
+Banks,Armenia,-,Ardshinbank OJSC
+Chemicals,Poland,WAR:ATT,Grupa Azoty SA
+Food Products,Indonesia,-,PT Perkebunan Nusantara III (Persero)
+Utilities,India,BOM:533206,SJVN Ltd.
+Consumer Services,United Kingdom,-,The University of Liverpool
+Pharmaceuticals,Japan,TKS:4578,"Otsuka Holdings Co., Ltd."
+Food Products,China,SHG:603027,"Qianhe Condiment & Food Co., Ltd."
+Telecommunication Services,Jamaica,-,Digicel Group Ltd.
+Diversified Metals,Mongolia,HKG:975,Mongolian Mining Corp.
+Oil & Gas Producers,Kazakhstan,KAZ:KMGZ,National Company KazMunayGas JSC
+Diversified Financials,Kazakhstan,KAZ:KSPI,Kaspi.kz JSC
+Diversified Financials,Kazakhstan,-,Samruk-Kazyna Sovereign Wealth Fund JSC
+Banks,Slovakia,-,Slovenská sporitelna AS
+Commercial Services,Pakistan,KAR:TRG,TRG Pakistan Ltd.
+Oil & Gas Producers,Pakistan,KAR:PPL,Pakistan Petroleum Ltd.
+Oil & Gas Producers,Pakistan,KAR:POL,Pakistan Oilfields Ltd.
+Banks,Uzbekistan,-,UzPromStroyBank
+Chemicals,Morocco,-,OCP SA
+Oil & Gas Producers,Norway,OSL:PEN,Panoro Energy ASA
+Telecommunication Services,South Africa,JSE:MTN,MTN Group Ltd.
+Banks,Romania,BSE:TLV,Banca Transilvania SA
+Diversified Financials,Japan,TKS:8508,"J Trust Co., Ltd."
+Software & Services,United States of America,-,"LiveVox Holdings, Inc."
+Semiconductors,Taiwan,ROCO:8086,Advanced Wireless Semiconductor Co.
+Construction & Engineering,Japan,TKS:1926,"Raito Kogyo Co., Ltd."
+Chemicals,Japan,TKS:4221,"Okura Industrial Co., Ltd."
+Consumer Services,China,SHG:600054,"Huangshan Tourism Development Co., Ltd."
+Software & Services,India,BOM:540005,LTIMindtree Ltd.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Transportation Infrastructure,China,SHG:600057,"Xiamen Xiangyu Co., Ltd."
+Software & Services,India,BOM:543417,RateGain Travel Technologies Ltd.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Pharmaceuticals,United States of America,NAS:MCRB,"Seres Therapeutics, Inc."
+Steel,Brazil,BSP:CSNA3,Companhia Siderurgica Nacional
+Insurance,United States of America,NYS:AEL,American Equity Investment Life Holding Co.
+Diversified Financials,South Korea,KRX:335890,"VIOL Co., Ltd. (New)"
+Software & Services,Israel,NAS:CYBR,CyberArk Software Ltd.
+Consumer Services,Japan,TKS:9887,"Matsuya Foods Holdings Co., Ltd."
+Healthcare,Indonesia,JKT:MIKA,PT Mitra Keluarga Karyasehat Tbk
+Energy Services,Singapore,SES:S51,Seatrium Ltd.
+Technology Hardware,Taiwan,ROCO:8358,Co-Tech Development Corp.
+Real Estate,Taiwan,TAI:9945,"Ruentex Development Co., Ltd."
+Chemicals,Japan,TKS:4975,JCU Corp.
+Transportation,Canada,-,Crosslinx Transit Solutions GP
+Pharmaceuticals,Taiwan,ROCO:4147,"TaiMed Biologics, Inc."
+Banks,United States of America,NAS:NFBK,"Northfield Bancorp, Inc. (New Jersey)"
+Consumer Durables,China,SHG:603833,"Oppein Home Group, Inc."
+Healthcare,United States of America,NAS:OSUR,"OraSure Technologies, Inc."
+Oil & Gas Producers,United States of America,NYS:MTDR,Matador Resources Co.
+Food Products,Japan,TKS:2266,"Rokko Butter Co., Ltd."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Software & Services,Sweden,OME:PACT,Proact IT Group AB
+Consumer Durables,United States of America,NYS:YETI,"YETI Holdings, Inc."
+Building Products,South Korea,KRX:009450,"Kyung Dong Navien Co., Ltd."
+Real Estate,United States of America,NYS:MMI,"Marcus & Millichap, Inc."
+Diversified Financials,India,BOM:543652,Fusion Micro Finance Ltd.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Utilities,United States of America,NAS:NWE,"NorthWestern Energy Group, Inc."
+Software & Services,China,NYS:YMM,"Full Truck Alliance Co., Ltd."
+Technology Hardware,United States of America,NAS:EXTR,"Extreme Networks, Inc."
+Diversified Financials,India,BOM:531213,Manappuram Finance Ltd.
+Pharmaceuticals,United States of America,NAS:TSVT,"2seventy Bio, Inc."
+Software & Services,Singapore,SES:5CP,Silverlake Axis Ltd.
+Diversified Financials,United States of America,NAS:FCFS,"FirstCash Holdings, Inc."
+Building Products,United States of America,NYS:SSD,"Simpson Manufacturing Co., Inc."
+Utilities,Mexico,-,Mexico Generadora de Energia S de Rl
+Food Products,Malaysia,KLS:2089,United Plantations Bhd.
+Diversified Metals,China,HKG:358,"Jiangxi Copper Co., Ltd."
+Machinery,India,BOM:501455,Greaves Cotton Ltd.
+Construction & Engineering,Malaysia,KLS:5263,Sunway Construction Group Bhd.
+Consumer Services,Canada,TSE:PLC,Park Lawn Corp.
+Food Products,South Korea,KRX:145990,Samyang Corp.
+Electrical Equipment,Taiwan,TAI:6412,"Chicony Power Technology Co., Ltd."
+Textiles & Apparel,South Korea,KRX:081660,FILA Holdings Corp.
+Banks,United States of America,NAS:TFIN,"Triumph Financial, Inc."
+Machinery,United States of America,NYS:TEX,Terex Corp.
+Real Estate,Thailand,BKK:LPN,"L.P.N. Development Public Co., Ltd."
+Software & Services,Australia,ASX:BRN,BrainChip Holdings Ltd.
+Auto Components,Germany,ETR:SFQ,SAF-HOLLAND SE
+Transportation Infrastructure,China,SHG:601000,"Tangshan Port Group Co., Ltd."
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Diversified Financials,United States of America,-,Federal Home Loan Bank System
+Textiles & Apparel,China,HKG:1361,361 Degrees International Ltd.
+Technology Hardware,Sweden,OME:PREC,Precise Biometrics AB
+Transportation,United States of America,NAS:ULCC,"Frontier Group Holdings, Inc."
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Energy Services,United States of America,NYS:HP,"Helmerich & Payne, Inc."
+Utilities,United States of America,-,Duke Energy Carolinas LLC
+Consumer Services,Australia,ASX:FLT,Flight Centre Travel Group Ltd.
+Software & Services,United States of America,NAS:TWOU,"2U, Inc."
+Utilities,India,BOM:532939,Reliance Power Ltd.
+Real Estate,Sweden,OME:FABG,Fabege AB
+Retailing,United States of America,NAS:FIVE,"Five Below, Inc."
+Pharmaceuticals,Germany,NAS:CVAC,CureVac NV
+Energy Services,China,SHG:600583,"Offshore Oil Engineering Co., Ltd."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Healthcare,Belgium,BRU:IBAB,Ion Beam Applications SA
+Electrical Equipment,South Korea,KRX:267260,"HD Hyundai Electric Co., Ltd."
+Transportation,China,HKG:1919,COSCO SHIPPING Holdings Co. Ltd.
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Banks,United States of America,NAS:SRCE,1st Source Corp.
+Aerospace & Defense,China,SHE:002023,"Sichuan Haite High-Tech Co., Ltd."
+Consumer Durables,Sweden,OME:PRFO,Profoto Holding AB
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Consumer Services,France,PAR:ELIOR,Elior Group SA
+Oil & Gas Producers,Nigeria,LON:SEPL,Seplat Energy Plc
+Banks,Nigeria,NSA:UBA,United Bank for Africa Plc
+Banks,Togo,NSA:ETI,"Ecobank Transnational, Inc."
+Banks,Nigeria,-,Africa Finance Corp.
+Precious Metals,South Africa,JSE:GFI,Gold Fields Ltd.
+Utilities,Colombia,-,Empresas Públicas de Medellín ESP
+Energy Services,Spain,MCE:TRE,Técnicas Reunidas SA
+Chemicals,Mexico,MEX:ORBIA,Orbia Advance Corp. SAB de CV
+Real Estate,Spain,MCE:AEDAS,AEDAS Homes SA
+Real Estate,Spain,MCE:HOME,Neinor Homes SA
+Oil & Gas Producers,Mexico,-,Petróleos Mexicanos EPE
+Food Products,Switzerland,SWX:BARN,Barry Callebaut AG
+Technology Hardware,Taiwan,TAI:2409,AUO Corp.
+Oil & Gas Producers,Venezuela,-,Petróleos de Venezuela SA
+Utilities,Spain,-,Greenalia SA
+Banks,Venezuela,-,La Corporación Andina de Fomento SA
+Utilities,Greece,ATH:MYTIL,Mytilineos SA
+Food Retailers,Portugal,LIS:JMT,Jerónimo Martins SGPS SA
+Construction & Engineering,China,HKG:390,China Railway Group Ltd.
+Commercial Services,Sweden,OME:NGS,NGS Group AB
+Real Estate,Canada,TSE:D.UT,Dream Office Real Estate Investment Trust
+Banks,Philippines,PHS:MBT,Metropolitan Bank & Trust Co.
+Commercial Services,China,SHG:603005,"China Wafer Level CSP Co., Ltd."
+Electrical Equipment,Sweden,OME:GARO,GARO AB
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Banks,United States of America,ASE:BHB,Bar Harbor Bankshares
+Industrial Conglomerates,South Africa,JSE:HCI,Hosken Consolidated Investments Ltd.
+Consumer Services,India,BOM:543283,Barbeque-Nation Hospitality Ltd.
+Utilities,Finland,-,Teollisuuden Voima Oyj
+Chemicals,Germany,ETR:EVK,Evonik Industries AG
+Steel,United Kingdom,LON:EVR,EVRAZ Plc
+Consumer Services,Thailand,BKK:M,MK Restaurant Group PCL
+Real Estate,United Kingdom,LON:HOME,Home REIT Plc
+Diversified Financials,South Africa,JSE:NY1,Ninety One Ltd.
+Transportation,Bermuda,OSL:2020,2020 Bulkers Ltd.
+Software & Services,New Zealand,NZE:VGL,Vista Group International Ltd.
+Food Products,India,BOM:500825,Britannia Industries Ltd.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Pharmaceuticals,China,SHG:603456,"Zhejiang Jiuzhou Pharmaceutical Co., Ltd."
+Utilities,Kuwait,KUW:AZNOULA,Shamal Az-Zour Al-Oula Power & Water Co. KSCP
+Healthcare,Costa Rica,NAS:ESTA,"Establishment Labs Holdings, Inc."
+Chemicals,Qatar,DSMD:IQCD,Industries of Qatar Co.
+Transportation Infrastructure,Dominican Republic,-,Aeropuertos Dominicanos Siglo XXI SA
+Telecommunication Services,Paraguay,-,Telefónica Celular del Paraguay SAE
+Food Products,Paraguay,-,Frigorífico Concepción SA
+Transportation Infrastructure,Paraguay,-,Rutas del Este SA
+Banks,Honduras,-,Inversiones Atlantida SA
+Banks,Cote D`Ivoire,-,The African Development Bank
+Software & Services,Poland,WAR:11B,11 Bit Studios SA
+Diversified Financials,United Kingdom,LON:CHRY,Chrysalis Investments Ltd.
+Real Estate,China,SHG:600606,Greenland Holdings Corp. Ltd.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Aerospace & Defense,South Korea,KRX:079550,"LIG Nex1 Co., Ltd."
+Consumer Durables,Hong Kong,HKG:669,"Techtronic Industries Co., Ltd."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Real Estate,Saudi Arabia,SAU:4300,Dar Al Arkan Real Estate Development Co.
+Pharmaceuticals,Sweden,OME:MVIR,Medivir AB
+Utilities,China,SHE:000966,"CHN Energy Changyuan Electric Power Co., Ltd."
+Household Products,Japan,TKS:4967,"Kobayashi Pharmaceutical Co., Ltd."
+Utilities,Brazil,BSP:SRNA3,Omega Energia SA
+Utilities,Thailand,BKK:ACE,Absolute Clean Energy PCL
+Banks,Finland,-,Finnvera Oyj
+Chemicals,Denmark,-,Chr. Hansen Holding A/S
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Transportation,United Kingdom,NYS:GSL,"Global Ship Lease, Inc."
+Banks,United Kingdom,-,Standard Chartered Bank Ltd.
+Banks,Azerbaijan,-,International Bank of Azerbaijan OJSC
+Food Products,Brazil,BSP:MRFG3,Marfrig Global Foods SA
+Insurance,Israel,TAE:IDIN,I.D.I. Insurance Co. Ltd.
+Oil & Gas Producers,United States of America,NYS:VTLE,"Vital Energy, Inc."
+Software & Services,Poland,WAR:11B,11 Bit Studios SA
+Real Estate,Austria,-,Signa Prime Selection AG
+Construction & Engineering,Israel,TAE:SBEN,Shikun & Binui Energy Ltd.
+Technology Hardware,Indonesia,JKT:ERAA,PT Erajaya Swasembada Tbk
+Semiconductors,China,SHE:300671,Fuman Microelectronics Group Co. Ltd.
+Construction Materials,India,-,JSW Cement Ltd.
+Transportation,Japan,TKS:9037,"Hamakyorex Co., Ltd."
+Healthcare,Sweden,OME:SEDANA,Sedana Medical AB
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Oil & Gas Producers,United States of America,NYS:DVN,Devon Energy Corp.
+Software & Services,Poland,WAR:11B,11 Bit Studios SA
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Food Retailers,Malaysia,KLS:5250,7-Eleven Malaysia Holdings Bhd.
+Real Estate,United States of America,NYS:PEB,Pebblebrook Hotel Trust
+Diversified Metals,China,SHG:600392,"Shenghe Resources Holding Co., Ltd."
+Pharmaceuticals,United States of America,NAS:ME,23andMe Holding Co.
+Machinery,Japan,TKS:6324,"Harmonic Drive Systems, Inc."
+Refiners & Pipelines,Canada,-,Vancouver Airport Fuel Facilities Corp.
+Electrical Equipment,United Kingdom,LON:CWR,Ceres Power Holdings plc
+Technology Hardware,China,SHG:600498,"Fiberhome Telecommunication Technologies Co., Ltd."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Pharmaceuticals,China,SHG:600867,"Tonghua Dongbao Pharmaceutical Co., Ltd."
+Chemicals,South Korea,KRX:002840,"Miwon Commercial Co., Ltd."
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Consumer Durables,Taiwan,TAI:9914,"Merida Industry Co., Ltd."
+Utilities,Belgium,-,Fluvius System Operator CV
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Real Estate,Hong Kong,-,Lai Sun MTN Ltd.
+Electrical Equipment,China,SHE:002518,"Shenzhen Kstar Science & Technology Co., Ltd."
+Refiners & Pipelines,United States of America,-,Sabal Trail Transmission LLC
+Consumer Durables,France,PAR:TRI,Trigano SA
+Technology Hardware,United States of America,NAS:LFUS,"Littelfuse, Inc."
+Textiles & Apparel,China,SHG:601233,"Tongkun Group Co., Ltd."
+Consumer Services,Hong Kong,HKG:880,SJM Holdings Ltd.
+Consumer Services,Hong Kong,-,China National Travel Service (HK) Group Corp.
+Energy Services,Canada,TSE:TCW,Trican Well Service Ltd.
+Banks,United States of America,NAS:PFC,Premier Financial Corp.
+Homebuilders,United Kingdom,LON:BOOT,Henry Boot Plc
+Banks,United States of America,NAS:SRCE,1st Source Corp.
+Retailing,Finland,HEL:TOKMAN,Tokmanni Group Oyj
+Banks,India,BOM:500116,IDBI Bank Ltd.
+Banks,Switzerland,SWX:BEKN,Berner Kantonalbank AG
+Real Estate,United States of America,NYS:BHR,"Braemar Hotels & Resorts, Inc."
+Homebuilders,United States of America,NAS:LGIH,"LGI Homes, Inc."
+Auto Components,Hong Kong,HKG:819,Tianneng Power International Ltd.
+Food Products,China,HKG:6186,China Feihe Ltd.
+Real Estate,Belgium,BRU:INTO,Intervest Offices & Warehouses SA
+Commercial Services,Japan,TKS:3421,"INABA SEISAKUSHO Co., Ltd."
+Technology Hardware,United States of America,NYS:SNX,TD SYNNEX Corp.
+Healthcare,Sweden,OME:RAY.B,RaySearch Laboratories AB
+Healthcare,Sweden,OME:RAY.B,RaySearch Laboratories AB
+Pharmaceuticals,Canada,TSE:WEED,Canopy Growth Corp.
+Banks,Switzerland,SWX:VATN,Valiant Holding AG
+Retailing,United States of America,NYS:BURL,"Burlington Stores, Inc."
+Software & Services,United Kingdom,NYS:DAVA,Endava Plc
+Transportation Infrastructure,Germany,ETR:FRA,Fraport AG Frankfurt Airport Services Worldwide
+Commercial Services,Sweden,OME:LAMM.B,Lammhults Design Group AB
+Commercial Services,France,PAR:DBG,Derichebourg SA
+Steel,Taiwan,TAI:2034,YC Inox Co. Ltd.
+Machinery,Taiwan,TAI:2049,HIWIN Technologies Corp.
+Software & Services,United States of America,NYS:ONTF,"ON24, Inc."
+Commercial Services,United States of America,NYS:CLH,"Clean Harbors, Inc."
+Media,United Kingdom,LON:PSON,Pearson Plc
+Transportation Infrastructure,China,HKG:3369,"Qinhuangdao Port Co., Ltd."
+Oil & Gas Producers,United States of America,NYS:STR,Sitio Royalties Corp.
+Real Estate,Australia,ASX:CIP,Centuria Industrial REIT
+Energy Services,China,HKG:2883,China Oilfield Services Ltd.
+Media,Israel,LON:NEXN,Tremor International Ltd.
+Real Estate,Australia,ASX:ABG,Abacus Group
+Healthcare,United States of America,NYS:ZBH,"Zimmer Biomet Holdings, Inc."
+Machinery,China,SHG:603666,"Yijiahe Technology Co., Ltd."
+Software & Services,Australia,ASX:OCL,Objective Corp. Ltd.
+Food Retailers,Malaysia,KLS:5250,7-Eleven Malaysia Holdings Bhd.
+Commercial Services,Hong Kong,HKG:1196,Realord Group Holdings Ltd.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Healthcare,France,PAR:CLARI,Clariane SE
+Diversified Financials,Russian Federation,MIC:MOEX,Moscow Exchange MICEX-RTS PJSC
+Transportation,Mexico,MEX:VOLARA,Controladora Vuela Compañía de Aviación SAB de CV
+Software & Services,United States of America,NYS:ZIP,"ZipRecruiter, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Pharmaceuticals,United States of America,NAS:TXG,"10X Genomics, Inc."
+Pharmaceuticals,United States of America,NAS:HRMY,"Harmony Biosciences Holdings, Inc."
+Real Estate,Sweden,OME:NIVI.B,Nivika Fastigheter AB
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Energy Services,Norway,OSL:PGS,PGS ASA
+Retailing,United States of America,NAS:FIVE,"Five Below, Inc."
+Real Estate,Japan,TKS:3226,"Nippon Accommodations Fund, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Textiles & Apparel,China,HKG:1361,361 Degrees International Ltd.
+Technology Hardware,Taiwan,TAI:2428,"Thinking Electronic Industrial Co., Ltd."
+Real Estate,Canada,TSE:CRR.UT,Crombie Real Estate Investment Trust
+Telecommunication Services,South Korea,KRX:006490,"Inscobee, Inc."
+Semiconductors,China,SHG:688368,"Shanghai Bright Power Semiconductor Co., Ltd."
+Consumer Services,Japan,TKS:3387,"create restaurants holdings, inc."
+Diversified Financials,Philippines,-,Metro Pacific Investments Corp.
+Food Products,China,SHG:600975,"Hunan New Wellful Co., Ltd."
+Insurance,United States of America,NYS:KMPR,Kemper Corp.
+Technology Hardware,Sweden,OME:IS,Image Systems AB
+Software & Services,United States of America,NAS:HCP,"HashiCorp, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Construction & Engineering,South Korea,KRX:047040,Daewoo Engineering & Construction Co. Ltd.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Telecommunication Services,Germany,ETR:1U1,1&1 AG
+Real Estate,Hong Kong,-,Wheelock & Co. Ltd.
+Banks,United States of America,NAS:CHMG,Chemung Financial Corp.
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Utilities,Canada,-,UMH Energy Partnership
+Traders & Distributors,Thailand,BKK:SABUY,"Sabuy Technology Public Co., Ltd."
+Electrical Equipment,Taiwan,TAI:3015,"FSP Technology, Inc."
+Insurance,United Kingdom,NAS:WTW,Willis Towers Watson Plc
+Banks,Norway,OSL:SVEG,Sparebanken Vest
+Commercial Services,Japan,TKS:9308,"Inui Global Logistics Co., Ltd."
+Retailing,United States of America,NAS:FLWS,"1-800-FLOWERS.COM, Inc."
+Technology Hardware,United States of America,NAS:MVIS,"MicroVision, Inc."
+Technology Hardware,United States of America,NAS:MVIS,"MicroVision, Inc."
+Consumer Durables,United States of America,NAS:MAT,"Mattel, Inc."
+Commercial Services,Japan,TKS:9716,"NOMURA Co., Ltd."
